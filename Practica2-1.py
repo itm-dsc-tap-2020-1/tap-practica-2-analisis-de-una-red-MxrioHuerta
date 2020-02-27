@@ -3,6 +3,7 @@ import os
 red = "200.33.171.0/24"
 os.system("nmap -sP " + red)
 """
+Mario Huerta Olivares
 [mXrio404@localhost VisualProjects]$ /usr/bin/python /home/mXrio404/Documents/VisualProjects/Test1/Practica2-1.py
 Starting Nmap 7.80 ( https://nmap.org ) at 2020-02-27 12:43 EST
 Nmap scan report for mail.itmorelia.edu.mx (200.33.171.3)
